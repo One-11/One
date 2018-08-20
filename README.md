@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Resume
 
 You can use the [editor on GitHub](https://github.com/One-11/One.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
